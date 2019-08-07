@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ListFlattener
+namespace ArrayFlattener
 {
     public class Flattener
     {
@@ -10,7 +10,7 @@ namespace ListFlattener
         /// Flatten takes a nested array of integers and flattens them out into a single flat array of integers
         /// Any non-integer values present in the array will cause an InvalidOperationException to be thrown
         /// </summary>
-        /// <param name="arrayOfInts"></param>
+        /// <param name="arrayOfInts">Dynamic array containing integers or arrays of integers</param>
         /// <returns>Array of flattened ints</returns>
         public int[] Flatten(dynamic arrayOfInts)
         {

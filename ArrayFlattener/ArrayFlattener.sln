@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListFlattener", "ListFlattener.csproj", "{F6D2F438-2E11-46E0-8C98-AA8D190703E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayFlattener", "ArrayFlattener.csproj", "{F6D2F438-2E11-46E0-8C98-AA8D190703E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListFlattener.Tests", "..\ListFlattener.Tests\ListFlattener.Tests.csproj", "{6B919C4E-A86B-400E-A538-BD8B8B5DE979}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayFlattener.Tests", "..\ArrayFlattener.Tests\ArrayFlattener.Tests.csproj", "{6B919C4E-A86B-400E-A538-BD8B8B5DE979}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

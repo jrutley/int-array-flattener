@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace ListFlattener.Tests
+namespace ArrayFlattener.Tests
 {
     public class FlattenerTest
     {

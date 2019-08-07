@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ListFlattener
+namespace ArrayFlattener
 {
     class Program
     {
